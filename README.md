@@ -6,5 +6,8 @@ The BiDao Cryptocurrency (BID) utilizes a completely decentralized proof-of-stak
 
 As Settlement Layer the BiDao system utilizes the Binance-chain. This means that you can also freely interact with all crypto assets that are running on Binance-chain. In future, BiDao will be also integrated with other Blockchains like Ethereum, Tezos, and EOS. This way BiDao becomes the one-stop-shop for Decentralized Finance (Defi) applications
 
+## Whitepaper
+https://bidaochain.com/static/docs/whitepaperBidao.pdf
+
 ## Screenshot
 ![alt text](https://raw.githubusercontent.com/Bidaochain/Bidao-Wallet/master/screenshots/screenshot_wallet.png)
