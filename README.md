@@ -11,3 +11,4 @@ https://bidaochain.com/static/docs/whitepaperBidao.pdf
 
 ## Screenshot
 ![alt text](https://raw.githubusercontent.com/Bidaochain/Bidao-Wallet/master/screenshots/screenshot_wallet.png)
+
